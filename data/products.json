@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "name": "Laptop",
+    "price": 40000,
+    "color": "ffffff",
+    "img": "hp.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Mobile",
+    "price": 20000,
+    "color": "223344",
+    "img" :"moto_g4_plus.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chess",
+    "price": 350,
+    "color": "223344",
+    "img": "chess.jpg"
+  },
+  {
+    "id": 3,
+    "name": "WashingMachine",
+    "price": 17000,
+    "color": "223344",
+     "img": "washingmachine.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 15000,
+    "color": "223344",
+    "img":"watch.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Curtain",
+    "price": 30000,
+    "color": "223344",
+    "img":"parde.jpg"
+  }
+]
